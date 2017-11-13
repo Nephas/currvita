@@ -10,6 +10,8 @@
 \RequirePackage[T1]{fontenc}
 \RequirePackage{tikz}
 \RequirePackage{xcolor}
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[german]{babel}
 \RequirePackage[absolute,overlay]{textpos}
 \RequirePackage{ragged2e}
 \RequirePackage{etoolbox}
@@ -149,7 +151,7 @@
 		%------------------------------------------------
 
 		\ifthenelse{\equal{\aboutme}{}}{}{
-			\profilesection{About me}
+			\profilesection{Über mich}
 			\begin{flushleft}
 				\aboutme
 			\end{flushleft}
@@ -157,7 +159,7 @@
 
 		%------------------------------------------------
 
-		\profilesection{Skills}
+		\profilesection{Fähigkeiten}
 
 		\skills
 		\skillstext

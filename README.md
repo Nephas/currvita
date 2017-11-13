@@ -1,2 +1,6 @@
 # currvita
-my ![curriculum vitae](https://github.com/Nephas/currvita/blob/master/currvita.pdf)
+my CV in
+
+![english](https://github.com/Nephas/currvita/blob/master/currvita.pdf)
+
+![german](https://github.com/Nephas/currvita/blob/german/currvita.pdf)
